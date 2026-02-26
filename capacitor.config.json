@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "Website Builder",
+  "bundledWebRuntime": false,
+  "webDir": "dist"
+}
